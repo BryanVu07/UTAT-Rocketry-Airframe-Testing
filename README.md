@@ -36,7 +36,6 @@ This test provides important data on the compressive strength and failure points
 ![Screenshot 2024-10-03 151427](https://github.com/user-attachments/assets/ba4dc42c-5df2-488c-8372-dbe26739bc99)
 
 8.2.1.2 Bending Rigs Test
-### 8.2.1.2 24-inch Tube with QD Hole Test
 
 #### Test Objective:
 This test was conducted to evaluate the **compressive strength** and structural integrity of a 24-inch carbon fibre body tube with a **1-inch quick disconnect (QD) hole**. The goal was to determine how this configuration responds to bending forces and assess potential weaknesses due to the hole.
