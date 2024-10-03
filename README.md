@@ -1,4 +1,4 @@
-# 8.2 Airframe Testing - ReadMe
+# 8.2 Airframe Testing 
 
 ## 8.2.1 Body Tube Bending Testing - Completed
 
