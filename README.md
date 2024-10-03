@@ -10,7 +10,7 @@ The purpose of this test was to verify the **compressive strength** of carbon fi
 ### 8.2.1.1  Solid Tube Test:
 
 - **Material & Configuration:**
-  - 10-ply carbon fibre body tube with ply orientation of 
+  - 10-ply carbon fibre body tube with ply orientation of ([0/90/0/90/0/90/0/90/45]s)
   - Length: **30 inches**.
   - Tube attached to the steel bulkhead mount using an **aluminum bulkhead** epoxied to the tube base.
   - The bulkhead design mirrors the "fill bay - ox tank" joint, as this joint experiences the **largest bending moment**.
