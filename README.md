@@ -77,7 +77,9 @@ This test provided critical insight into how the carbon fibre tube behaves under
 ![Screenshot 2024-10-03 151846](https://github.com/user-attachments/assets/5e4e3a50-511b-4f87-aa9c-bd14e0d8d93e)
 
 
-
+Resource: 
+Launch Canada 2024: Final Report 
+University of Toronto Aerospace Team Defiance Mk.IV
 
 
 
